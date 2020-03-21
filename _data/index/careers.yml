@@ -1,0 +1,11 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Latest Company
+  link:
+  date: Jan 2008 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Engineer
+
+- name: Last Company
+  link:
+  date: Feb 2002 - Nov 2007
+  job: Senior Developer

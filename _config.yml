@@ -1,0 +1,71 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: supermamon.com
+email: me@supermamon.com
+description: A simple and awesome blog by supermamon.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "supermamon"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Singapore
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Raymond Velasquez
+  avatar: logo-200x200.png
+  job: "designated geek"
+  bio: "I'm new here."
+  email: me@supermamon.com
+  disqus-shortname:
+  twitter: supermamon
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: supermamon
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: monvelasquez
+  skype: #username
+  xing: #username
+  instagram: supermamon
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: supermamon
+  telegram: #username

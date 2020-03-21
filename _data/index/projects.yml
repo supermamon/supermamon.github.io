@@ -1,0 +1,15 @@
+- name: Reposi3
+  descr: "a Cydia repository template"
+  image: pong.png
+  github: https://github.com/supermamon/Reposi3
+
+- name: oauth-proxy
+  descr: "a general purpose proxy to forward OAuth responses to custom urls"
+  image: pong.png
+  github: https://github.com/supermamon/oauth-proxy
+
+- name: dpkg-scanpackages-py
+  descr: "A Python implementation of Debian's `dpkg-scanpackages`"
+  image: pong.png
+  github: https://github.com/supermamon/dpkg-scanpackages-py
+
