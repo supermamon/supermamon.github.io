@@ -39,7 +39,14 @@ layout: default
     {{ content }}
   </article>
 </div>
-
+{% if page.tags.size > 0 %}
+  <span>[
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tags/#{{ tag_name }}"><code class="highligher-rouge"><nobr>#{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+  ]</span>
+{% endif %}
 <div class="share-buttons">
   <h6>Share on: </h6>
   <ul>

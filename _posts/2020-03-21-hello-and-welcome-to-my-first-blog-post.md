@@ -12,4 +12,4 @@ I started this as a way to share stuff about iOS Shortcuts, automations, develop
 
 I guess this is an opportune time to start something new. Given that the world is battling the COVID-19 pandemic and most of us are spending more time at home than outside. This give us a chance to explore alternative hobbies, be more productive at home or maybe just explore *stuff* that we can do around the house.
 
-This is my *stuff*.
+This is my *stuff* and I am glad to share it with you.
