@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Advent of Code Day 3 - The Forest is Scary"
-categories: [scriptable]
-tags: scriptable, javascript
+categories: [programming]
+tags: scriptable, javascript, adventofcode
 comments: true
 
 

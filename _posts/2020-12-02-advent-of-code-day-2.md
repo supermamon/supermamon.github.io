@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Advent of Code Day 2 - Passwords"
-categories: [scriptable]
-tags: scriptable, javascript
-comments: false
+categories: [programming]
+tags: scriptable, javascript, adventofcode
+comments: true
 
 
 ---

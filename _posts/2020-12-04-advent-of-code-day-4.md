@@ -2,12 +2,8 @@
 layout: post
 title: "Advent of Code Day 4"
 categories: [programming]
-tags: scriptable, javascript
+tags: scriptable, javascript, adventofcode
 comments: true
-
-
-
-
 ---
 
 I sensing a pattern here. I might need to build a compiler soon. 
@@ -112,7 +108,7 @@ I kept that assumption for now and call it a day.
 
 The complete code can be found at my [aoc-2020](https://github.com/supermamon/aoc-2020) repo.
 
-
+Edit: I did mention I will need to build a compiler soon didn't I. Yes, seeing we're doing all this pattern matching, it's a step closer to tokenizing the input and interpret instuctions with it. 
 
 
 

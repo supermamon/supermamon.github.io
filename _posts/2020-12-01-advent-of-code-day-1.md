@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Advent of Code Day 1"
-categories: [scriptable]
-tags: scriptable, javascript
-comments: false
+categories: [programming]
+tags: scriptable, javascript, adventofcode
+comments: true
 
 ---
 
