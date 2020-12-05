@@ -6,7 +6,7 @@ tags: scriptable, javascript, adventofcode
 comments: true
 ---
 
-You learn something new everyday. And there's done one way to arrive to a solution for any problem. 
+You learn something new everyday. And there's more one way to arrive to a solution for any problem. 
 
 <!--more-->
 
